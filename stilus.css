@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: aqua;
+}
+.formazas{
+    width: 50%;
+    height: 50%;
+    border: 5px black;
+}
+.hover{
+background-color: blue;
+}
+.leave{
+background-color: aqua;
+}
