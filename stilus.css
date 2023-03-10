@@ -10,6 +10,7 @@ img{
     width: 125px;
     height: 125px;
     border: 5px black;
+    object-fit: cover;
     
     
 }
