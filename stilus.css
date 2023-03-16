@@ -46,4 +46,15 @@ section{
     width: 45%;
     margin: auto;
 }
+@media only screen and (max-width: 600px) {
+    body{
+        background-color: green;
+    }
+    .hover{
+        background-color: goldenrod;
+        }
+        .leave{
+        background-color: green;
 
+    }
+}
